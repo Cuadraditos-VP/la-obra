@@ -1,6 +1,6 @@
 // Service worker de La Obra: guarda la app para usarla sin conexión.
 // Al publicar una versión nueva, cambiá VERSION para que los usuarios reciban la actualización.
-const VERSION = 'la-obra-v1';
+const VERSION = 'la-obra-v2';
 const ARCHIVOS = [
   './',
   './index.html',
